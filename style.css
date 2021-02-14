@@ -1,0 +1,17 @@
+/* リセット */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* 見出し */
+h1 {
+  height: auto;
+  margin: 40px 0 0 20px;
+  padding: 0;
+  color: #000;
+  font-size: 30px;
+  font-weight: bold;
+  border-top: 0;
+  line-height: 1.5;
+}
